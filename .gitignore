@@ -1,0 +1,4 @@
+env/
+datasets/
+handson-ml2_*
+.ipynb_checkpoints/
